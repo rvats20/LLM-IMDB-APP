@@ -1,6 +1,5 @@
 # IMDB-LLM: Movie Query Made Simple
 
-![IMDB-LLM Demo](./image/llm-imdb.gif)
 
 Welcome to IMDB-LLM, a proof of concept app that demonstrates the power of [LangChain](https://github.com/hwchase17/langchain) and LLMs in extracting information from graphs! In just 10 hours it is possible to develop a user-friendly application that enables users to search for movie titles in the IMDB dataset graph or discover similar movies using natural language queries. The best part? If the LLM lacks specific information, it will first search on Google, then query the title in the database.
 
